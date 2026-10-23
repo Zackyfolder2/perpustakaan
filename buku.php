@@ -18,7 +18,7 @@ $no = 1;
             <th>Kode Buku</th>
             <th>Judul</th>
             <th>Pengarang</th>
-            <th>Penerbi</th>
+            <th>Penerbit</th>
             <th>Tahun</th>
             <th>Stok</th>
             <th>Sampul</th>
