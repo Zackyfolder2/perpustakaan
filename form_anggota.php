@@ -7,7 +7,7 @@ $menu_aktif = 'anggota';
 require 'layout/header.php';
 ?>
 
-<h1 class="mb-3">Input Data Anggota</h1>
+<h1 class="mb-3">Input Dati Anggota</h1>
 
 <form action="proses_anggota.php" method="post" enctype="multipart/form-data">
 
