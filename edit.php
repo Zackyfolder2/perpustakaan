@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Data Buku</title>
+
+    <style>
+        html, body {
+            min-height: 100%;
+            overflow-y: auto;
+        }
+
+        body {
+            padding-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+
 <?php
 require 'koneksi.php';
 
